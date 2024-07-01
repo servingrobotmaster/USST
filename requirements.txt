@@ -1,14 +1,13 @@
 opencv-python
 matplotlib
 tqdm
-mediapipe
 protobuf
 pyaml
 easydict
 tensorboardX
 timm==0.5.4
 einops
-mmcv
+# mmcv
 imageio
 open3d
 terminaltables
@@ -17,4 +16,4 @@ pymatting
 gdown
 onnxruntime
 seaborn
-gluoncv==0.11.0
+gluoncv==0.11.0b20220101
